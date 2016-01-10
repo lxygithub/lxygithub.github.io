@@ -194,6 +194,34 @@ a {
     width: 100%;
   }
 }
+.img-topic {
+  max-width: 300px;
+  max-height: 1800px;
+  display: block;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  padding: 0;
+  float: right;
+  clear: right;
+}
+.img-logo {
+  max-width: 180px;
+  max-height: 96px;
+  display: block;
+  margin-right: 0.7em;
+  margin-left: 0.7em;
+  padding: 0;
+  float: right;
+  clear: right;
+}
+.img-center {
+  display: block;
+  margin: auto;
+}
+.img-shadow {
+  -webkit-box-shadow: 0 0 2px 3px #ddd;
+  box-shadow: 0 0 2px 3px #ddd;
+}
 #container {
   position: relative;
   min-height: 100%;
