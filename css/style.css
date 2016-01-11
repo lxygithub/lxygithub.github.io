@@ -233,7 +233,8 @@ a {
   height: 110px;
   position: absolute;
   width: 100%;
-  background: #4d4d4d;
+  background: #071c37;
+  background-image: url("bg_luotianyi.jpg");
 }
 #container #mobile-nav .overlay.fixed {
   position: fixed;
